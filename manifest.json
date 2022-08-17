@@ -1,0 +1,11 @@
+{
+  "domain": "BeeSCRM_system_electricity_query",
+  "name": "BeeSCRM system electricity query",
+  "documentation": "https://github.com/zrincet/BeeSCRM_system_electricity_query",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@zrincet"
+  ],
+  "version": "1.0.0"
+}
